@@ -9,7 +9,7 @@ A continuación van a ver una lista de algunos editores de textos populares:
 
 ![Sublime text](./img/sublime.png)
 
-Es un editor de texto liviano, que cuenta con una serie de plugins para adaptarlo a las necesidades de cada desarrollador.
+Holis, Es un editor de texto liviano, que cuenta con una serie de plugins para adaptarlo a las necesidades de cada desarrollador.
 
 Es multiplataforma, por lo que se puede instalar tanto en Windows, como Linux y OS X.
 
